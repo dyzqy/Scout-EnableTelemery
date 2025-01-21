@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Scout-EnableTelemery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f71954b34ebff9e2ef59afae16978290e802e01e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Scout-EnableTelemery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Scout-EnableTelemery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

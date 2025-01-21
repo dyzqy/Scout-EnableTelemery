@@ -12,3 +12,4 @@ C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj
 C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.pdb
 C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.genruntimeconfig.cache
 C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\ref\Scout-EnableTelemery.dll
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.sourcelink.json
