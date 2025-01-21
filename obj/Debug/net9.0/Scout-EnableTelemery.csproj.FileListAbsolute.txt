@@ -1,0 +1,14 @@
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\bin\Debug\net9.0\Scout-EnableTelemery.exe
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\bin\Debug\net9.0\Scout-EnableTelemery.deps.json
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\bin\Debug\net9.0\Scout-EnableTelemery.runtimeconfig.json
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\bin\Debug\net9.0\Scout-EnableTelemery.dll
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\bin\Debug\net9.0\Scout-EnableTelemery.pdb
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.AssemblyInfoInputs.cache
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.AssemblyInfo.cs
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.csproj.CoreCompileInputs.cache
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.dll
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\refint\Scout-EnableTelemery.dll
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.pdb
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\Scout-EnableTelemery.genruntimeconfig.cache
+C:\Users\bahae.taifi_volta-al.LAB231_T\Documents\GitHub\Scout-EnableTelemery\obj\Debug\net9.0\ref\Scout-EnableTelemery.dll
